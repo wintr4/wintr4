@@ -2,7 +2,6 @@
 - 🎓 I’m a 2nd-year student at Medipol University, studying Management Information Systems in Istanbul.
 - 👀 I’m interested in web development, machine learning, game development, and almost every area of technology.
 - 🌱 I’m currently learning Pandas and TensorFlow.
-- 💞️ I’m looking to collaborate on full-stack development projects, machine learning models, or game development.
 - 📫 How to reach me: You can reach me via email at ddogancayy@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring different fields of technology and I'm always looking to learn new things!
